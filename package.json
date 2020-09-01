@@ -1,0 +1,22 @@
+{
+  "name": "electron-poc",
+  "version": "1.0.0",
+  "description": "electron - proof of concept",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/sinsong/electron-poc.git",
+  "keywords": [
+    "Electron"
+  ],
+  "author": "literal kernel",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sinsong/electron-poc/issues"
+  },
+  "homepage": "https://github.com/sinsong/electron-poc#readme",
+  "devDependencies": {
+    "electron": "^10.1.0"
+  }
+}
